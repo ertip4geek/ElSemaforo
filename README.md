@@ -1,5 +1,13 @@
 # El Semaforo Sample
 
+![traffic_light](https://user-images.githubusercontent.com/92811902/150031347-b90f814f-522e-44f8-a8f9-daf7cd640e94.gif)
+
+
+
+![dev_tool-chrome](https://user-images.githubusercontent.com/92811902/150031398-d01c1542-9499-4894-8a27-d7365d137ab7.gif)
+
+
+
 https://media.giphy.com/media/fOoi0tuZWH4HjlBzKV/giphy.gif
 
 ## Publish your website!
